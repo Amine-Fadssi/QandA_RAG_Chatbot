@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+sentence_transformers
+langchain_huggingface
+langchain_chroma
+bs4
+beautifulsoup4
+streamlit
+langchain-groq
